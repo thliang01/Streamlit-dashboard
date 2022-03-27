@@ -4,3 +4,5 @@ import numpy as np
 
 
 st.title("Hello World")
+
+st.button('Click me')
